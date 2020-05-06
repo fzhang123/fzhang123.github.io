@@ -1,4 +1,5 @@
-
+##"Zoe's blog"
+##hhhhhhhhhhhhhhhhhhhhhhh
 
 ![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
 
@@ -67,16 +68,7 @@ jianshu_username: e71990ada2fd  # 你的简书ID。
 
 Jekyll官方网站还有很多的参数可以调，比如设置文章的链接形式...网址在这里：[Jekyll - Official Site](http://jekyllrb.com/) 中文版的在这里：[Jekyll中文](http://jekyllcn.com/).
 
-### 撰写博文
 
-要发表的文章一般以 **Markdown** 的格式放在这里`_posts/`，你只要看看这篇模板里的文章你就立刻明白该如何设置。
-
-yaml 头文件长这样:
-
-```
----
-layout:     post
-title:      定时器 你真的会使用吗？
 subtitle:   iOS定时器详解
 date:       2016-12-13
 author:     BY
